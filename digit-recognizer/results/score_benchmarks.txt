@@ -2,6 +2,5 @@ RandomForestClassifier(n_jobs=-1) [19 seconds, 0.91514]
 RandomForestClassifier(n_estimators=250, n_jobs=-1) [71 seconds, 0.96542]
 RandomForestClassifier(n_estimators=250, min_samples_leaf=3 n_jobs=-1) [69 seconds, 0.95928]
 RandomForestClassifier(n_estimators=250, min_samples_leaf=3, max_features=0.5, n_jobs=-1) [662 seconds seconds, 0.95600]
-
 RandomForestClassifier(n_estimators=500, n_jobs=-1) [126 seconds, 0.96614]
 RandomForestClassifier(n_estimators=1000, n_jobs=-1) [218 seconds, 0.96785]
