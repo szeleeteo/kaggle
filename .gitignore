@@ -4,8 +4,8 @@
 tmp*
 sample_data/
 tags
-data/
-fastai/
+data
+fastai
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
