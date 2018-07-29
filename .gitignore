@@ -4,6 +4,7 @@
 tmp*
 sample_data/
 models/
+submissions/
 tags
 data
 fastai
