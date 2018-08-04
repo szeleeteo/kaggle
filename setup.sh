@@ -21,9 +21,11 @@ source ~/.bashrc
 cd ..
 mkdir data
 cd data
+wget http://files.fast.ai/data/dogscats.zip
 sudo apt install unzip -y
 sudo apt -y upgrade --force-yes
 sudo apt -y autoremove
+unzip -q dogscats.zip
 cd ../fastai/courses/dl1/
 ln -s ~/data ./
 cd ~/fastai/courses/dl2/
