@@ -1,3 +1,4 @@
-Humpback Whale Identification Challenge: https://www.kaggle.com/c/whale-categorization-playground
+Humpback Whale Identification Challenge
 
-Using techniques from fastai image classification
+- Competition Link: https://www.kaggle.com/c/whale-categorization-playground
+- Using techniques from fastai image classification
