@@ -1,1 +1,1 @@
-# Notebooks from different kaggle competitions
+Notebooks from different kaggle competitions
